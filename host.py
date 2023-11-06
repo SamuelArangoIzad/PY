@@ -2,7 +2,7 @@ import sys
 import nmap
 
 nm = nmap.PortScanner()
-ip_range = "192.168.10.5"
+ip_range = "IP"
 port_range = "1-100"
 nm.scan(hosts=ip_range, arguments=f'-p {port_range} -sS')
 
