@@ -1,0 +1,11 @@
+Dim var
+Do until var=6
+var=msgbox("Close?", 4+16, "Not Close")
+Loop
+a=msgbox("okey!",0+64,"PC")
+
+
+
+Y SE GUARDA COMO UN  prank.vbs
+Puedes Alterar lo que desees
+______________________________
